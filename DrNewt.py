@@ -116,6 +116,6 @@ drNewt.add_cog(DrNewt(drNewt))
 
 start_logging(logger='discord', level='DEBUG')
 
-drNewt.run('NzI4NDc5NTIwMzk4NTA4MDMy.GdNTMB.wKBi9KAQ1AhTkAXPFsiZ3kEdAgCI-iBXX9ZjtU')
+drNewt.run(token)
 
         
